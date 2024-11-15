@@ -20,7 +20,7 @@
   <br>
   💬 Feel free to ask me anything
   <br>
-  📫 You can reach me at: <a href="mailto: amalgpan02@gmail.com">amalgpan02@gmail.com"/a>
+  📫 You can reach me at: <a href="mailto: amalgpan02@gmail.com">amalgpan02@gmail.com"</a>
 </p>
 
 
